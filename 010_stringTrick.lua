@@ -1,4 +1,4 @@
---Page 123 (english edition)
+--Page 189 (english edition)
 test = [[char s[] = "a /* b * c * d * e "; /* a tricky string */]]
 
 function code (s)
